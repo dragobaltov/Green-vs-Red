@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MoMShKsYnROMq8uu/+60gGUvHn7vVeB8t1/S442ix/46lPdercUGGg3XvdL8nJ9cJPsxizNojTVxu1CGnGEmSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Green-vs-Red\\GreenVsRed\\GreenVsRed\\GreenVsRed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
